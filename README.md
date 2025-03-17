@@ -25,7 +25,7 @@ How to Run the Project:
 Ensure you have Python installed, then run:
 pip install -r requirements.txt
 
-3. Run the Jupyter Notebooks
+2. Run the Jupyter Notebooks
    
 Start Jupyter Notebook and open the notebooks directory:
 jupyter notebook
