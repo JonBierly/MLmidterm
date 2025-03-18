@@ -51,4 +51,7 @@ Key Findings:
 Slides: https://docs.google.com/presentation/d/1Rop5pMRIpiwnKTpdlsTJQkn8KqjzW18jkPbp2QuPUag/edit?usp=sharing
 
 
+## Makeup of Repo
 
+- 'initial_eda_findings' has Nemo's initial findings and preprocessing of the data.
+- 'midtermProjectPCA' has the extensive processings and modeling of the data, as well as our final findings
